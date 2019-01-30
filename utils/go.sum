@@ -1,3 +1,5 @@
+github.com/Zate/gotty/pkg/homedir v0.0.0-20190130213205-ba3d1b6428d6 h1:Vsk9vc5vTnwDpgPVa5UEZ1OmEvrw8W0tlYdyFGUMjTY=
+github.com/Zate/gotty/pkg/homedir v0.0.0-20190130213205-ba3d1b6428d6/go.mod h1:MRGHCm5gaSKrq+V1m1lX2bhwfy+H0JSJPFkz/9IhLIY=
 github.com/codegangsta/cli v1.20.0 h1:iX1FXEgwzd5+XN6wk5cVHOGQj6Q3Dcp20lUeS4lHNTw=
 github.com/codegangsta/cli v1.20.0/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
 github.com/fatih/structs v1.1.0 h1:Q7juDM0QtcnhCpeyLGQKyg4TOIghuNXrkL32pHAUMxo=

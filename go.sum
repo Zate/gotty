@@ -2,6 +2,8 @@ github.com/NYTimes/gziphandler v1.0.1 h1:iLrQrdwjDd52kHDA5op2UBJFjmOb9g+7scBan4R
 github.com/NYTimes/gziphandler v1.0.1/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
 github.com/Zate/gotty/backend/localcommand v0.0.0-20190130212550-3ea5536cb6a7 h1:cR6eXkxixBjrDbovNh4+FE7875/CxAvt+2EKAMHgZbk=
 github.com/Zate/gotty/backend/localcommand v0.0.0-20190130212550-3ea5536cb6a7/go.mod h1:o2Iuy99J+LosH04fzAU1yL94ehLlSgJOeZbFs0wMH10=
+github.com/Zate/gotty/pkg/homedir v0.0.0-20190130213205-ba3d1b6428d6 h1:Vsk9vc5vTnwDpgPVa5UEZ1OmEvrw8W0tlYdyFGUMjTY=
+github.com/Zate/gotty/pkg/homedir v0.0.0-20190130213205-ba3d1b6428d6/go.mod h1:MRGHCm5gaSKrq+V1m1lX2bhwfy+H0JSJPFkz/9IhLIY=
 github.com/Zate/gotty/server v0.0.0-20190130212550-3ea5536cb6a7 h1:VMvA7ulghV0RPK/iCfLtSXExhSOTvzwHHiWMet8OBKg=
 github.com/Zate/gotty/server v0.0.0-20190130212550-3ea5536cb6a7/go.mod h1:ItfevIrrieyllwmLNYOusdYTzWaktW/Gp5ydsTP+dDo=
 github.com/Zate/gotty/utils v0.0.0-20190130212550-3ea5536cb6a7 h1:whCH6cDx9e6ZVyDV5ZRaQeDp8gHgulmPlXMlZQQP3vM=
@@ -31,6 +33,5 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
-github.com/yudai/gotty v1.0.1 h1:mV4gD2U4g7bPUvVzn49ddRyaMI4Rg5r5nHjkoPClGA4=
 github.com/yudai/hcl v0.0.0-20151013225006-5fa2393b3552 h1:tjsK9T2IA3d2FFNxzDP7AJf+EXhyuPd7PB4Z2HrtAoc=
 github.com/yudai/hcl v0.0.0-20151013225006-5fa2393b3552/go.mod h1:hg0ZaCmQL3rze1cH8Fh2g0a9q8vQs0uN8ESpePEwSEw=
