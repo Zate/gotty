@@ -1,0 +1,34 @@
+# github.com/NYTimes/gziphandler v1.0.1
+github.com/NYTimes/gziphandler
+# github.com/Zate/gotty/backend/localcommand v0.0.0-20190130215330-1eb087182869
+github.com/Zate/gotty/backend/localcommand
+# github.com/Zate/gotty/pkg/homedir v0.0.0-20190130215330-1eb087182869
+github.com/Zate/gotty/pkg/homedir
+# github.com/Zate/gotty/pkg/randomstring v0.0.0-20190130215330-1eb087182869
+github.com/Zate/gotty/pkg/randomstring
+# github.com/Zate/gotty/server v0.0.0-20190130215330-1eb087182869
+github.com/Zate/gotty/server
+# github.com/Zate/gotty/utils v0.0.0-20190130215330-1eb087182869
+github.com/Zate/gotty/utils
+# github.com/Zate/gotty/webtty v0.0.0-20190130212550-3ea5536cb6a7
+github.com/Zate/gotty/webtty
+# github.com/codegangsta/cli v1.20.0
+github.com/codegangsta/cli
+# github.com/elazarl/go-bindata-assetfs v1.0.0
+github.com/elazarl/go-bindata-assetfs
+# github.com/fatih/structs v1.1.0
+github.com/fatih/structs
+# github.com/gorilla/websocket v1.4.0
+github.com/gorilla/websocket
+# github.com/hashicorp/errwrap v1.0.0
+github.com/hashicorp/errwrap
+# github.com/hashicorp/go-multierror v1.0.0
+github.com/hashicorp/go-multierror
+# github.com/kr/pty v1.1.3
+github.com/kr/pty
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/yudai/hcl v0.0.0-20151013225006-5fa2393b3552
+github.com/yudai/hcl
+github.com/yudai/hcl/hcl
+github.com/yudai/hcl/json
