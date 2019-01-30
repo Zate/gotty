@@ -1,5 +1,7 @@
 github.com/NYTimes/gziphandler v1.0.1 h1:iLrQrdwjDd52kHDA5op2UBJFjmOb9g+7scBan4RN8F0=
 github.com/NYTimes/gziphandler v1.0.1/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
+github.com/Zate/gotty/webtty v0.0.0-20190130212550-3ea5536cb6a7 h1:CKSgKIS46YYBgLHSTSPGLPD6swzdE/9/OJzVYzg5+h0=
+github.com/Zate/gotty/webtty v0.0.0-20190130212550-3ea5536cb6a7/go.mod h1:ORiONxTYlzjIxsM/1ZzHukJz7LpnMIgtDkicDY94hb0=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/elazarl/go-bindata-assetfs v1.0.0 h1:G/bYguwHIzWq9ZoyUQqrjTmJbbYn3j3CKKpKinvZLFk=
